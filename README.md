@@ -5,35 +5,40 @@
 ##### H5
 ###### H6
 
-(‘’)
+<!-- 這是註解 -->
 
-//階層式區塊
->新北市
->>板橋區
+<!-- 階層式區塊 -->
+> 新北市
+>> 板橋區
 
->中和區
+> 中和區
 
->桃園縣
->>大溪鎮
+> 桃園縣
+>> 大溪鎮
 
-//項目符號
+<!-- 項目符號 -->
 + bird
 + haha
 + hehe
-//or
+<!-- or -->
 - bird
 - haha
 - hehe
 
-//水平線
+<!-- 水平線 -->
 ***
-//or
+<!-- 或 -->
 ---
 
-//外部連結
-[yahoo]
+<!-- 外部連結 -->
+[yahoo](https://www.yahoo.com)
 
-//表格
-｜table  ｜mid    ｜right｜
-｜：-----｜：----：｜-----：｜
+<!-- 表格 -->
+| table  | mid    | right |
+| :----- | :----: | ----: |
 
+### 圖片範例
+![替代文字](https://i.pinimg.com/564x/2e/e3/a0/2ee3a003e95d140f0fdecccff790b89e.jpg)
+
+### 影片範例
+[![影片縮圖](https://example.com/video-thumbnail.jpg)](https://youtu.be/4MLrfSnqlWk?list=PLflRPY4-KyNtqZYthbbXDO-SwkxWDkVVc "點擊觀看影片")
