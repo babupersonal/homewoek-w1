@@ -41,4 +41,4 @@
 ![替代文字](https://i.pinimg.com/564x/2e/e3/a0/2ee3a003e95d140f0fdecccff790b89e.jpg)
 
 ### 影片範例
-[![影片縮圖](https://example.com/video-thumbnail.jpg)](https://youtu.be/4MLrfSnqlWk?list=PLflRPY4-KyNtqZYthbbXDO-SwkxWDkVVc "點擊觀看影片")
+[![影片縮圖]([https://example.com/video-thumbnail.jpg](https://i.pinimg.com/564x/f3/64/b3/f364b3b4ebaa9c6cdaab51b58e3a3585.jpg))](https://youtu.be/4MLrfSnqlWk?list=PLflRPY4-KyNtqZYthbbXDO-SwkxWDkVVc "點擊觀看影片")
