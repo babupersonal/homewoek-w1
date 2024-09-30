@@ -35,6 +35,11 @@ graph TD
     style D fill:#f9f,stroke:#333,stroke-width:2px
     style E fill:#f9f,stroke:#333,stroke-width:2px
 
+    C -->|同時進行| E
+    G -->|同時進行| H
+    F -->|同時進行| G
+
+
 ```
 
 ```graphviz
