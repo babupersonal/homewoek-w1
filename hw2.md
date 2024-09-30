@@ -1,3 +1,11 @@
+#               __
+              / _)
+       _.----._/ /
+     /          /
+ __/ (  |  (  |
+/__.-'|_|--|_|
+
+
 ```mermaid
 gantt
     title A Gantt Diagram Example
