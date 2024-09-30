@@ -19,7 +19,7 @@ gantt
     使用者訓練         :a10, after a7, 15d
     使用者測試         :a11, after a9, 20d
 ```
-
+```mermaid
 graph TD
     A[取得授權] --> B[任務分配]
     B --> C[取得硬體]
@@ -35,5 +35,5 @@ graph TD
     style D fill:#f9f,stroke:#333,stroke-width:2px
     style E fill:#f9f,stroke:#333,stroke-width:2px
 
-
+```
 
