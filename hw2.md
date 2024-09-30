@@ -19,3 +19,19 @@ gantt
     使用者訓練         :a10, after a7, 15d
     使用者測試         :a11, after a9, 20d
 
+graph TD
+    A[取得授權] --> B[任務分配]
+    B --> C[取得硬體]
+    C --> D[程式開發]
+    D --> E[安裝軟體]
+    E --> F[程式測試]
+    F --> G[撰寫使用手冊]
+    G --> H[轉換檔案]
+    H --> I[系統測試]
+    I --> J[使用者訓練]
+    J --> K[使用者測試]
+
+    style D fill:#f9f,stroke:#333,stroke-width:2px
+    style E fill:#f9f,stroke:#333,stroke-width:2px
+****
+
