@@ -42,7 +42,7 @@ graph TD
 
 ```
 
-```graphviz
+```mermaid
    digraph {
     node[shape=record];
     rankdir="LR";
